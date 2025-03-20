@@ -1,0 +1,145 @@
+[
+  {
+    "name": "장바구니수강신청1차(재학생)",
+    "semester": "1",
+    "eligibility": "상명대학교 재학생",
+    "period": "2025-01-31 - 2025-02-03" ,
+    "application": "상명대학교 수강신청 홈페이지를 통해 신청"
+  },
+
+  {
+    "name": "수강신청(재학생1차)",
+    "semester": "1",
+    "eligibility": "상명대학교 재학생",
+    "period": "2025-02-05 - 2025-02-07",
+    "application": "상명대학교 수강신청 홈페이지를 통해 신청"
+  },
+
+  {
+    "name": "교차수강신청(서울↔천안)",
+    "semester": "1",
+    "eligibility": "상명대학교에서 교차수강신청을 희망하는 학생",
+    "period": "2025-02-11 - 2025-02-12" ,
+    "application": "상명대학교 수강신청 홈페이지를 통해 신청"
+  },
+
+  {
+    "name": "수강신청(신·편입생)",
+    "semester": "1",
+    "eligibility": "상명대학교 신·편입생",
+    "period": "2025-02-18 - 2025-02-18" ,
+    "application": "상명대학교 수강신청 홈페이지를 통해 신청"
+  },
+  {
+    "name": "수강신청(재학생 1차)",
+    "semester": "1",
+    "eligibility": "상명대학교 재학생",
+    "period": "2025-07-23 - 2025-07-25" ,
+    "application": "상명대학교 수강신청 홈페이지를 통해 신청"
+  },
+  {
+    "name": "교차수강신청(서울↔천안)",
+    "semester": "1",
+    "eligibility": "상명대학교에서 교차수강신청을 희망하는 학생",
+    "period": "2025-08-05 - 2025-08-06" ,
+    "application": "상명대학교 수강신청 홈페이지를 통해 신청"
+  },
+  {
+    "name": "수강신청(재학생 2차)",
+    "semester": "1",
+    "eligibility": "상명대학교 재학생",
+    "period": "2025-08-21 - 2025-08-21" ,
+    "application": "상명대학교 수강신청 홈페이지를 통해 신청"
+  },
+  {
+    "name": "등록",
+    "semester": "1",
+    "eligibility": "상명대학교 재학생",
+    "period": "2025-02-19 - 2025-02-24" ,
+    "application": "상명대학교 샘물 홈페이지를 통해 등록"
+  },
+  {
+    "name": "등록",
+    "semester": "2",
+    "eligibility": "상명대학교 재학생",
+    "period": "2025-08-22 - 2025-08-26" ,
+    "application": "상명대학교 샘물 홈페이지를 통해 등록"
+  },
+  {
+    "name": "졸업식 - 학위수여식(서울·천안)",
+    "semester": "1",
+    "eligibility": "상명대학교 재학생",
+    "period": "2025-02-25" ,
+    "application": ""
+  },
+  {
+    "name": "입학식(천안)",
+    "semester": "1",
+    "eligibility": "상명대학교 천안캠퍼스 신입생",
+    "period": "2025-02-26" ,
+    "application": ""
+  },
+  {
+    "name": "입학식(서울)",
+    "semester": "1",
+    "eligibility": "상명대학교 서울캠퍼스 신입생",
+    "period": "2025-02-27" ,
+    "application": ""
+  },
+  {
+    "name": "개강",
+    "semester": "1",
+    "eligibility": "상명대학교 재학생",
+    "period": "2025-03-04" ,
+    "application": ""
+  },
+  {
+    "name": "개강",
+    "semester": "2",
+    "eligibility": "상명대학교 재학생",
+    "period": "2025-09-01" ,
+    "application": ""
+  },
+  {
+    "name": "수강신청 정정 및 취소",
+    "semester": "1",
+    "eligibility": "상명대학교 재학생",
+    "period": "2025-03-04 - 2025-03-10" ,
+    "application": ""
+  },
+  {
+    "name": "수강신청 정정 및 취소",
+    "semester": "2",
+    "eligibility": "상명대학교 재학생",
+    "period": "2025-09-01 - 2025-09-07" ,
+    "application": ""
+  },
+  {
+    "name": "중간고사",
+    "semester": "1",
+    "eligibility": "상명대학교 재학생",
+    "period": "2025-04-22 - 2025-04-28" ,
+    "application": ""
+  },
+  {
+    "name": "중간고사",
+    "semester": "2",
+    "eligibility": "상명대학교 재학생",
+    "period": "2025-10-20 - 2025-10-26" ,
+    "application": ""
+  },
+  {
+    "name": "기말고사",
+    "semester": "1",
+    "eligibility": "상명대학교 재학생",
+    "period": "2025-06-10 - 2025-06-16" ,
+    "application": ""
+  },
+  {
+    "name": "기말고사",
+    "semester": "2",
+    "eligibility": "상명대학교 재학생",
+    "period": "2025-12-08 - 2025-12-14" ,
+    "application": ""
+  }
+]

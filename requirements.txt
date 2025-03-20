@@ -1,0 +1,7 @@
+python-dotenv
+openai
+requests
+flask
+chromadb
+sentence_transformers
+flask-cors

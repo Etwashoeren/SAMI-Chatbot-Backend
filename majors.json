@@ -1,0 +1,142 @@
+[
+  {
+    "name": "컴퓨터과학전공",
+    "phoneNumber": "02-2287-5296",
+    "page": "https://cs.smu.ac.kr/cs/index.do",
+    "faculty": [
+      {
+        "name": "한혁수",
+        "email": "hshan@smu.ac.kr",
+        "lab": "(G관)제1공학관 (G511)",
+        "phoneNumber": "02-2287-5033"
+      },
+      {
+        "name": "백윤철",
+        "email": "",
+        "lab": "(G관)제1공학관 (G516)",
+        "phoneNumber": "02-2287-5074"
+      },
+      {
+        "name": "김영준",
+        "email": "",
+        "lab": "(G관)제1공학관 (G505)",
+        "phoneNumber": "02-2287-5316"
+      },
+      {
+        "name": "김윤호",
+        "email": "",
+        "lab": "(G관)제1공학관 (G515)",
+        "phoneNumber": "02-2287-5312"
+      },
+      {
+        "name": "송병호",
+        "email": "",
+        "lab": "(G관)제1공학관 (G506)",
+        "phoneNumber": "02-2287-5291"
+      },
+      {
+        "name": "조용주",
+        "email": "",
+        "lab": "(G관)제1공학관 (G412)",
+        "phoneNumber": "02-2287-5363"
+      },
+      {
+        "name": "손성훈",
+        "email": "",
+        "lab": "(G관)제1공학관 (G410)",
+        "phoneNumber": "02-2287-5137"
+      },
+      {
+        "name": "민경하",
+        "email": "",
+        "lab": "(G관)제1공학관 (G403-1)",
+        "phoneNumber": "02-2287-5377"
+      },
+      {
+        "name": "민승욱",
+        "email": "",
+        "lab": "(G관)제1공학관 (G507)",
+        "phoneNumber": "02-2287-5339"
+      },
+      {
+        "name": "유훈",
+        "email": "",
+        "lab": "(G관)제1공학관 (G514)",
+        "phoneNumber": "02-2287-5494"
+      },
+      {
+        "name": "김종원",
+        "email": "",
+        "lab": "(R관)미래백년관 (R307)",
+        "phoneNumber": "02-2287-5410"
+      },
+      {
+        "name": "이석필",
+        "email": "",
+        "lab": "(G관)제1공학관 (G513)",
+        "phoneNumber": "02-781-7569"
+      },
+      {
+        "name": "강상욱",
+        "email": "",
+        "lab": "(M관)월해관 (M327)",
+        "phoneNumber": "02-781-7588"
+      },
+      {
+        "name": "박종환",
+        "email": "",
+        "lab": "(I관)제2교수회관 (I613)",
+        "phoneNumber": "02-781-7589"
+      },
+      {
+        "name": "김종욱",
+        "email": "",
+        "lab": "(G관)제1공학관 (G504)",
+        "phoneNumber": "02-781-7590"
+      },
+      {
+        "name": "신경섭",
+        "email": "",
+        "lab": "(T관)경영경제대학관(밀레니엄관) (T209)",
+        "phoneNumber": "연락처 : 02-2287-6154"
+      },
+      {
+        "name": "나재호",
+        "email": "",
+        "lab": "(G관)제1공학관 (G503)",
+        "phoneNumber": ""
+      }
+    ]
+  },
+  {
+    "name": "지적재산권전공",
+    "phoneNumber": "02-2287-5234",
+    "page": "https://cr.smu.ac.kr/cc/index.do",
+    "faculty": [
+      {
+        "name": "김동민",
+        "email": "",
+        "lab": "(R관)미래백년관 (R516)",
+        "phoneNumber": "02-2287-5234"
+      },
+      {
+        "name": "김인철",
+        "email": "",
+        "lab": "(O관)제1교수회관 (O415)",
+        "phoneNumber": "02-781-7501"
+      },
+      {
+        "name": "김경숙",
+        "email": "",
+        "lab": "(O관)제1교수회관 (O512)",
+        "phoneNumber": "02-781-7502"
+      },
+      {
+        "name": "김서기",
+        "email": "",
+        "lab": "(I관)제2교수회관 (I415)",
+        "phoneNumber": "02-781-7547"
+      }
+    ]
+  }
+]
