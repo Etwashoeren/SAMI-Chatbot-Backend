@@ -12,7 +12,7 @@ os.environ["TOKENIZERS_PARALLELISM"] = "false"
 
 # 환경 변수 로드
 load_dotenv()
-api_key = "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"
+api_key = "[OPENAI_API_KEY]"
 
 # Flask 애플리케이션 초기화
 app = Flask(__name__)
